@@ -1,5 +1,5 @@
 ## Theses_files
-Pliki urzyte podczas pisania pracy magisterskiej oraz sama praca
+Pliki użyte podczas pisania pracy magisterskiej oraz sama praca
 
 ## outputs_theses
 Surowe wyniki oraz obrazki wygenerowane przez kod (Dla uruchomienia na podstawie którego była pisana praca magisterska)
