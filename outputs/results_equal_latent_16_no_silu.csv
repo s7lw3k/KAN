@@ -1,0 +1,2 @@
+dataset,H,W,model,latent_dim,params,epochs,val_mse,val_psnr,val_ssim,infer_ms_per_img
+shapes,32,32,cnn,16,182161,10,101.15019958496094,10.58847780814503,0.08409337555656232,0.658266406844632

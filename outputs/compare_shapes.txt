@@ -1,0 +1,7 @@
+Row 0: original
+Row 1: cnn
+Row 2: kan_linear
+Row 3: kan_bezier
+Row 4: kan_catmull
+Row 5: kan_bspline
+Row 6: fastkan
